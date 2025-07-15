@@ -1,2 +1,2 @@
 # My-New_repo
-Learning Github
+This is my first GitHub repository. I’m learning GitHub step by step!
